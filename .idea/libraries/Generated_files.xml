@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/gulpfile.js" />
+        <item url="file://$PROJECT_DIR$/dist/js/vender/tweenjs-0.6.2.min.js" />
+        <item url="file://$PROJECT_DIR$/dist/js/race.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/gulpfile.js" />
+      <root url="file://$PROJECT_DIR$/dist/js/vender/tweenjs-0.6.2.min.js" />
+      <root url="file://$PROJECT_DIR$/dist/js/race.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
